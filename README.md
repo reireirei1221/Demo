@@ -1,1 +1,1 @@
-![Image](path/to/image.png)
+![Image](./copy_amount.png)
