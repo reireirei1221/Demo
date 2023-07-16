@@ -1,0 +1,195 @@
+sjvnsj
+sjvnsjsjvnsj
+sjvnsjnsj
+sjvnsj
+
+sjvnsj
+sjvnsjsjvnsj
+sjvnsjnsj
+sjvnsj
+sjvnsj
+sjvnsjvnsj
+sjvnsj
+sjvnsj
+sjvnsj
+sjvnsjvnsj
+sjvnsj
+sjvnsj
+sjvnsjvnsj
+sjvnsj
+sjvnsj
+sjvnsjvnsj
+sjvnsj
+sjvnsj
+
+vnsjvnsj
+sjvnsj
+sh: ./script.sh: No such file or directory
+sh: ./script.sh: No such file or directory
+vnsjvnsjsh: 
+sjvnsj
+sjvnsj
+
+sjvnsj
+sjvnsjsjvnsj
+sjvnsjnsj
+sjvnsj
+sjvnsj
+sjvnsjvnsj
+sjvnsj
+sjvnsj
+sjvnsj
+sjvnsjvnsj
+sjvnsj
+sjvnsj
+sjvnsjvnsj
+sjvnsj
+sjvnsj
+sjvnsjvnsj
+sjvnsj
+sjvnsj
+
+vnsjvnsj
+sjvnsj
+sh: ./script.sh: No such file or directory
+sh: ./script.sh: No such file or directory
+vnsjvnsjsh: 
+sjvnsj
+sjvnsj
+
+sjvnsj
+sjvnsjsjvnsj
+sjvnsjnsj
+sjvnsj
+sjvnsj
+sjvnsjvnsj
+sjvnsj
+sjvnsj
+sjvnsj
+sjvnsjvnsj
+sjvnsj
+sjvnsj
+sjvnsjvnsj
+sjvnsj
+sjvnsj
+sjvnsjvnsj
+sjvnsj
+sjvnsj
+
+vnsjvnsj
+sjvnsj
+sh: ./script.sh: No such file or directory
+sh: ./script.sh: No such file or directory
+vnsjvnsjsh: 
+sjvnsj
+sjvnsj
+
+sjvnsj
+sjvnsjsjvnsj
+sjvnsjnsj
+sjvnsj
+sjvnsj
+sjvnsjvnsj
+sjvnsj
+sjvnsj
+sjvnsj
+sjvnsjvnsj
+sjvnsj
+sjvnsj
+sjvnsjvnsj
+sjvnsj
+sjvnsj
+sjvnsjvnsj
+sjvnsj
+sjvnsj
+
+vnsjvnsj
+sjvnsj
+sh: ./script.sh: No such file or directory
+sh: ./script.sh: No such file or directory
+vnsjvnsjsh: 
+sjvnsj
+sjvnsj
+
+sjvnsj
+sjvnsjsjvnsj
+sjvnsjnsj
+sjvnsj
+sjvnsj
+sjvnsjvnsj
+sjvnsj
+sjvnsj
+sjvnsj
+sjvnsjvnsj
+sjvnsj
+sjvnsj
+sjvnsjvnsj
+sjvnsj
+sjvnsj
+sjvnsjvnsj
+sjvnsj
+sjvnsj
+
+vnsjvnsj
+sjvnsj
+sh: ./script.sh: No such file or directory
+sh: ./script.sh: No such file or directory
+vnsjvnsjsh: 
+sjvnsj
+sjvnsj
+sjvnsjvnsj
+sjvnsjvnsj
+sjvnsj
+sjvnsj
+sjvnsj
+sjvnsjvnsj
+sjvnsj
+sjvnsj
+sjvnsjvnsj
+sjvnsj
+sjvnsj
+sjvnsjvnsj
+sjvnsj
+sjvnsj
+
+vnsjvnsj
+sjvnsj
+sh: ./script.sh: No such file or directory
+sh: ./script.sh: No such file or directory
+vnsjvnsjsh: 
+sjvnsj
+sjvnsj
+o suc
+
+Error: Command failed: sh ./script.sh
+sh: ./script.sh: No such file or directory
+
+vnsjvnsj
+sjvnsj
+
+sjvnsj
+jvnsj
+
+
+
+
+data = json.loads(request.data.decode('utf-8'))
+    copy_num = int(data['copy_num'])
+    type_num = int(data['type_num'])
+
+jvnsj
+sjvnsj
+
+jvnsj
+sjvnsj
+
+sjvnsjvnsj
+vnsj
+
+sjvnsj
+sjvnsj
+sjvnsj
+sjvnsj
+jvnsjsjvnsj
+sjvnsj
+vnsj
